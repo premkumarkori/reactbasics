@@ -33,6 +33,7 @@
   margin: 40px auto;
   padding: 20px;
 }
+
 /* blog previews / list */
 .blog-preview {
   padding: 10px 16px;
@@ -50,6 +51,7 @@
 .blog-preview a{
   text-decoration: none;
 }
+
 /* blog details page */
 .blog-details h2 {
   font-size: 20px;
@@ -58,6 +60,14 @@
 }
 .blog-details div {
   margin: 20px 0;
+}
+.blog-details button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
 }
 
 /* create new blog form */
